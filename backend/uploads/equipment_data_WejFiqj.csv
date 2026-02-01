@@ -1,0 +1,31 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump-001,Pump,125.5,2.3,85.0
+Pump-002,Pump,130.2,2.5,87.5
+Pump-003,Pump,118.7,2.1,82.3
+Valve-A01,Valve,95.0,1.8,75.0
+Valve-A02,Valve,98.5,1.9,76.2
+Valve-B01,Valve,102.3,2.0,78.5
+Heat-Exchanger-HX01,Heat Exchanger,150.0,3.2,120.5
+Heat-Exchanger-HX02,Heat Exchanger,145.8,3.0,118.2
+Reactor-R01,Reactor,200.5,4.5,150.0
+Reactor-R02,Reactor,195.0,4.3,148.5
+Compressor-C01,Compressor,180.0,5.0,95.0
+Compressor-C02,Compressor,175.5,4.8,92.5
+Mixer-M01,Mixer,110.0,2.2,70.0
+Mixer-M02,Mixer,115.5,2.4,72.5
+Filter-F01,Filter,88.5,1.5,65.0
+Filter-F02,Filter,92.0,1.6,67.0
+Tank-T01,Tank,0.0,1.0,25.0
+Tank-T02,Tank,0.0,1.0,25.0
+Separator-S01,Separator,135.0,2.8,105.0
+Dryer-D01,Dryer,75.0,1.2,200.0
+Pump-004,Pump,122.3,2.4,83.5
+Valve-C01,Valve,91.5,1.7,74.2
+Heat-Exchanger-HX03,Heat Exchanger,148.5,3.1,119.0
+Reactor-R03,Reactor,198.0,4.4,149.0
+Compressor-C03,Compressor,178.5,4.9,94.0
+Mixer-M03,Mixer,112.5,2.3,71.0
+Filter-F03,Filter,90.0,1.55,66.0
+Tank-T03,Tank,0.0,1.0,25.0
+Separator-S02,Separator,137.5,2.85,106.5
+Dryer-D02,Dryer,77.0,1.25,202.5

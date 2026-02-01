@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump-001,Pump,125.5,2.3,85.0
+Pump-002,Pump,130.2,2.5,87.5
+Valve-A01,Valve,95.0,1.8,75.0
+Valve-A02,Valve,98.5,1.9,76.2
+Heat-Exchanger-HX01,Heat Exchanger,150.0,3.2,120.5
+Reactor-R01,Reactor,200.5,4.5,150.0
+Compressor-C01,Compressor,180.0,5.0,95.0
+Mixer-M01,Mixer,110.0,2.2,70.0
+Filter-F01,Filter,88.5,1.5,65.0
+Tank-T01,Tank,0.0,1.0,25.0

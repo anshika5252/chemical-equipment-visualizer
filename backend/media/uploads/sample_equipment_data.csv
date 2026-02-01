@@ -1,0 +1,52 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump-001,Pump,125.5,2.3,85.0
+Pump-002,Pump,130.2,2.5,87.5
+Pump-003,Pump,118.7,2.1,82.3
+Valve-A01,Valve,95.0,1.8,75.0
+Valve-A02,Valve,98.5,1.9,76.2
+Valve-B01,Valve,102.3,2.0,78.5
+Valve-B02,Valve,89.2,1.7,73.8
+Heat-Exchanger-HX01,Heat Exchanger,150.0,3.2,120.5
+Heat-Exchanger-HX02,Heat Exchanger,145.8,3.0,118.2
+Heat-Exchanger-HX03,Heat Exchanger,152.3,3.3,122.0
+Reactor-R01,Reactor,200.5,4.5,150.0
+Reactor-R02,Reactor,195.0,4.3,148.5
+Reactor-R03,Reactor,205.8,4.7,152.3
+Compressor-C01,Compressor,180.0,5.0,95.0
+Compressor-C02,Compressor,175.5,4.8,92.5
+Compressor-C03,Compressor,185.2,5.2,97.8
+Mixer-M01,Mixer,110.0,2.2,70.0
+Mixer-M02,Mixer,115.5,2.4,72.5
+Mixer-M03,Mixer,108.3,2.1,68.7
+Filter-F01,Filter,88.5,1.5,65.0
+Filter-F02,Filter,92.0,1.6,67.0
+Filter-F03,Filter,85.3,1.4,63.5
+Tank-T01,Tank,0.0,1.0,25.0
+Tank-T02,Tank,0.0,1.0,25.0
+Tank-T03,Tank,2.5,1.1,26.5
+Separator-S01,Separator,135.0,2.8,105.0
+Separator-S02,Separator,140.5,2.9,108.0
+Separator-S03,Separator,132.8,2.7,102.5
+Dryer-D01,Dryer,75.0,1.2,200.0
+Dryer-D02,Dryer,78.5,1.3,205.0
+Dryer-D03,Dryer,72.3,1.1,198.5
+Cooler-CL01,Cooler,160.0,2.5,45.0
+Cooler-CL02,Cooler,165.2,2.6,47.5
+Heater-H01,Heater,140.0,3.0,180.0
+Heater-H02,Heater,145.5,3.1,185.0
+Distillation-Column-DC01,Distillation Column,220.0,5.5,160.0
+Distillation-Column-DC02,Distillation Column,215.3,5.3,158.5
+Crystallizer-CR01,Crystallizer,95.5,2.3,35.0
+Crystallizer-CR02,Crystallizer,98.2,2.4,36.5
+Evaporator-EV01,Evaporator,125.0,2.8,110.0
+Evaporator-EV02,Evaporator,128.5,2.9,112.5
+Centrifuge-CF01,Centrifuge,105.0,1.9,40.0
+Centrifuge-CF02,Centrifuge,108.3,2.0,42.0
+Boiler-B01,Boiler,250.0,6.0,220.0
+Boiler-B02,Boiler,245.5,5.8,218.0
+Condenser-CD01,Condenser,155.0,2.4,55.0
+Condenser-CD02,Condenser,158.7,2.5,57.5
+Absorber-AB01,Absorber,130.0,3.5,85.0
+Absorber-AB02,Absorber,133.5,3.6,87.5
+Extractor-EX01,Extractor,115.0,2.7,75.0
+Extractor-EX02,Extractor,118.2,2.8,77.0
